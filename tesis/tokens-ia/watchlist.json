@@ -1,0 +1,46 @@
+{
+  "tesis": "tokens-ia",
+  "grupos": {
+    "SaaS castigado": [
+      "CRM",
+      "ADBE",
+      "NOW",
+      "INTU",
+      "WDAY",
+      "TEAM",
+      "HUBS",
+      "DOCU",
+      "ADSK"
+    ],
+    "Embotelladoras (chips/nube)": [
+      "NVDA",
+      "PLTR",
+      "AVGO",
+      "ORCL",
+      "AMD"
+    ],
+    "Servicios y aplicadores": [
+      "ACN",
+      "EPAM",
+      "G"
+    ],
+    "Biologia y farma": [
+      "IQV",
+      "ICLR",
+      "LLY",
+      "MRK",
+      "PFE"
+    ],
+    "Quimica e industria": [
+      "DOW",
+      "LYB",
+      "ROK",
+      "EMR",
+      "HON"
+    ],
+    "Energia": [
+      "CEG",
+      "VST"
+    ]
+  }
+}
